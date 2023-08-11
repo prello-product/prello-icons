@@ -1,535 +1,535 @@
 [
     {
-        "name": "core/activity",
-        "class": "core/activity"
+        "name": "activity",
+        "class": "activity"
     },
     {
-        "name": "core/airplay",
-        "class": "core/airplay"
+        "name": "airplay",
+        "class": "airplay"
     },
     {
-        "name": "core/alert-circle",
-        "class": "core/alert-circle"
+        "name": "alert-circle",
+        "class": "alert-circle"
     },
     {
-        "name": "core/alert-octagon",
-        "class": "core/alert-octagon"
+        "name": "alert-octagon",
+        "class": "alert-octagon"
     },
     {
-        "name": "core/alert-triangle",
-        "class": "core/alert-triangle"
+        "name": "alert-triangle",
+        "class": "alert-triangle"
     },
     {
-        "name": "core/align-center",
-        "class": "core/align-center"
+        "name": "align-center",
+        "class": "align-center"
     },
     {
-        "name": "core/align-justify",
-        "class": "core/align-justify"
+        "name": "align-justify",
+        "class": "align-justify"
     },
     {
-        "name": "core/align-left",
-        "class": "core/align-left"
+        "name": "align-left",
+        "class": "align-left"
     },
     {
-        "name": "core/align-right",
-        "class": "core/align-right"
+        "name": "align-right",
+        "class": "align-right"
     },
     {
-        "name": "core/anchor",
-        "class": "core/anchor"
+        "name": "anchor",
+        "class": "anchor"
     },
     {
-        "name": "core/at-sign",
-        "class": "core/at-sign"
+        "name": "at-sign",
+        "class": "at-sign"
     },
     {
-        "name": "core/award",
-        "class": "core/award"
+        "name": "award",
+        "class": "award"
     },
     {
-        "name": "core/bar-chart-2",
-        "class": "core/bar-chart-2"
+        "name": "bar-chart-2",
+        "class": "bar-chart-2"
     },
     {
-        "name": "core/bar-chart",
-        "class": "core/bar-chart"
+        "name": "bar-chart",
+        "class": "bar-chart"
     },
     {
-        "name": "core/battery-charging",
-        "class": "core/battery-charging"
+        "name": "battery-charging",
+        "class": "battery-charging"
     },
     {
-        "name": "core/battery",
-        "class": "core/battery"
+        "name": "battery",
+        "class": "battery"
     },
     {
-        "name": "core/bell-off",
-        "class": "core/bell-off"
+        "name": "bell-off",
+        "class": "bell-off"
     },
     {
-        "name": "core/bell",
-        "class": "core/bell"
+        "name": "bell",
+        "class": "bell"
     },
     {
-        "name": "core/bluetooth",
-        "class": "core/bluetooth"
+        "name": "bluetooth",
+        "class": "bluetooth"
     },
     {
-        "name": "core/book",
-        "class": "core/book"
+        "name": "book",
+        "class": "book"
     },
     {
-        "name": "core/bookmark",
-        "class": "core/bookmark"
+        "name": "bookmark",
+        "class": "bookmark"
     },
     {
-        "name": "core/box",
-        "class": "core/box"
+        "name": "box",
+        "class": "box"
     },
     {
-        "name": "core/briefcase",
-        "class": "core/briefcase"
+        "name": "briefcase",
+        "class": "briefcase"
     },
     {
-        "name": "core/calendar",
-        "class": "core/calendar"
+        "name": "calendar",
+        "class": "calendar"
     },
     {
-        "name": "core/cast",
-        "class": "core/cast"
+        "name": "cast",
+        "class": "cast"
     },
     {
-        "name": "core/check-circle",
-        "class": "core/check-circle"
+        "name": "check-circle",
+        "class": "check-circle"
     },
     {
-        "name": "core/check-square",
-        "class": "core/check-square"
+        "name": "check-square",
+        "class": "check-square"
     },
     {
-        "name": "core/check",
-        "class": "core/check"
+        "name": "check",
+        "class": "check"
     },
     {
-        "name": "core/circle",
-        "class": "core/circle"
+        "name": "circle",
+        "class": "circle"
     },
     {
-        "name": "core/clipboard",
-        "class": "core/clipboard"
+        "name": "clipboard",
+        "class": "clipboard"
     },
     {
-        "name": "core/clock",
-        "class": "core/clock"
+        "name": "clock",
+        "class": "clock"
     },
     {
-        "name": "core/cloud-off",
-        "class": "core/cloud-off"
+        "name": "cloud-off",
+        "class": "cloud-off"
     },
     {
-        "name": "core/cloud",
-        "class": "core/cloud"
+        "name": "cloud",
+        "class": "cloud"
     },
     {
-        "name": "core/command",
-        "class": "core/command"
+        "name": "command",
+        "class": "command"
     },
     {
-        "name": "core/copy",
-        "class": "core/copy"
+        "name": "copy",
+        "class": "copy"
     },
     {
-        "name": "core/cpu",
-        "class": "core/cpu"
+        "name": "cpu",
+        "class": "cpu"
     },
     {
-        "name": "core/delete",
-        "class": "core/delete"
+        "name": "delete",
+        "class": "delete"
     },
     {
-        "name": "core/disc",
-        "class": "core/disc"
+        "name": "disc",
+        "class": "disc"
     },
     {
-        "name": "core/download-cloud",
-        "class": "core/download-cloud"
+        "name": "download-cloud",
+        "class": "download-cloud"
     },
     {
-        "name": "core/download",
-        "class": "core/download"
+        "name": "download",
+        "class": "download"
     },
     {
-        "name": "core/edit-2",
-        "class": "core/edit-2"
+        "name": "edit-2",
+        "class": "edit-2"
     },
     {
-        "name": "core/edit-3",
-        "class": "core/edit-3"
+        "name": "edit-3",
+        "class": "edit-3"
     },
     {
-        "name": "core/edit",
-        "class": "core/edit"
+        "name": "edit",
+        "class": "edit"
     },
     {
-        "name": "core/external-link",
-        "class": "core/external-link"
+        "name": "external-link",
+        "class": "external-link"
     },
     {
-        "name": "core/eye-off",
-        "class": "core/eye-off"
+        "name": "eye-off",
+        "class": "eye-off"
     },
     {
-        "name": "core/eye",
-        "class": "core/eye"
+        "name": "eye",
+        "class": "eye"
     },
     {
-        "name": "core/feather",
-        "class": "core/feather"
+        "name": "feather",
+        "class": "feather"
     },
     {
-        "name": "core/file",
-        "class": "core/file"
+        "name": "file",
+        "class": "file"
     },
     {
-        "name": "core/filter",
-        "class": "core/filter"
+        "name": "filter",
+        "class": "filter"
     },
     {
-        "name": "core/flag",
-        "class": "core/flag"
+        "name": "flag",
+        "class": "flag"
     },
     {
-        "name": "core/folder",
-        "class": "core/folder"
+        "name": "folder",
+        "class": "folder"
     },
     {
-        "name": "core/grid",
-        "class": "core/grid"
+        "name": "grid",
+        "class": "grid"
     },
     {
-        "name": "core/hash",
-        "class": "core/hash"
+        "name": "hash",
+        "class": "hash"
     },
     {
-        "name": "core/headphones",
-        "class": "core/headphones"
+        "name": "headphones",
+        "class": "headphones"
     },
     {
-        "name": "core/heart",
-        "class": "core/heart"
+        "name": "heart",
+        "class": "heart"
     },
     {
-        "name": "core/home",
-        "class": "core/home"
+        "name": "home",
+        "class": "home"
     },
     {
-        "name": "core/inbox",
-        "class": "core/inbox"
+        "name": "inbox",
+        "class": "inbox"
     },
     {
-        "name": "core/info",
-        "class": "core/info"
+        "name": "info",
+        "class": "info"
     },
     {
-        "name": "core/layers",
-        "class": "core/layers"
+        "name": "layers",
+        "class": "layers"
     },
     {
-        "name": "core/layout",
-        "class": "core/layout"
+        "name": "layout",
+        "class": "layout"
     },
     {
-        "name": "core/life-buoy",
-        "class": "core/life-buoy"
+        "name": "life-buoy",
+        "class": "life-buoy"
     },
     {
-        "name": "core/link-2",
-        "class": "core/link-2"
+        "name": "link-2",
+        "class": "link-2"
     },
     {
-        "name": "core/link",
-        "class": "core/link"
+        "name": "link",
+        "class": "link"
     },
     {
-        "name": "core/list",
-        "class": "core/list"
+        "name": "list",
+        "class": "list"
     },
     {
-        "name": "core/loader",
-        "class": "core/loader"
+        "name": "loader",
+        "class": "loader"
     },
     {
-        "name": "core/lock",
-        "class": "core/lock"
+        "name": "lock",
+        "class": "lock"
     },
     {
-        "name": "core/log-in",
-        "class": "core/log-in"
+        "name": "log-in",
+        "class": "log-in"
     },
     {
-        "name": "core/log-out",
-        "class": "core/log-out"
+        "name": "log-out",
+        "class": "log-out"
     },
     {
-        "name": "core/maximize-2",
-        "class": "core/maximize-2"
+        "name": "maximize-2",
+        "class": "maximize-2"
     },
     {
-        "name": "core/maximize",
-        "class": "core/maximize"
+        "name": "maximize",
+        "class": "maximize"
     },
     {
-        "name": "core/menu",
-        "class": "core/menu"
+        "name": "menu",
+        "class": "menu"
     },
     {
-        "name": "core/mic-off",
-        "class": "core/mic-off"
+        "name": "mic-off",
+        "class": "mic-off"
     },
     {
-        "name": "core/mic",
-        "class": "core/mic"
+        "name": "mic",
+        "class": "mic"
     },
     {
-        "name": "core/minimize-2",
-        "class": "core/minimize-2"
+        "name": "minimize-2",
+        "class": "minimize-2"
     },
     {
-        "name": "core/minimize",
-        "class": "core/minimize"
+        "name": "minimize",
+        "class": "minimize"
     },
     {
-        "name": "core/minus-circle",
-        "class": "core/minus-circle"
+        "name": "minus-circle",
+        "class": "minus-circle"
     },
     {
-        "name": "core/minus-square",
-        "class": "core/minus-square"
+        "name": "minus-square",
+        "class": "minus-square"
     },
     {
-        "name": "core/minus",
-        "class": "core/minus"
+        "name": "minus",
+        "class": "minus"
     },
     {
-        "name": "core/monitor",
-        "class": "core/monitor"
+        "name": "monitor",
+        "class": "monitor"
     },
     {
-        "name": "core/more-horizontal",
-        "class": "core/more-horizontal"
+        "name": "more-horizontal",
+        "class": "more-horizontal"
     },
     {
-        "name": "core/more-vertical",
-        "class": "core/more-vertical"
+        "name": "more-vertical",
+        "class": "more-vertical"
     },
     {
-        "name": "core/move",
-        "class": "core/move"
+        "name": "move",
+        "class": "move"
     },
     {
-        "name": "core/music",
-        "class": "core/music"
+        "name": "music",
+        "class": "music"
     },
     {
-        "name": "core/octagon",
-        "class": "core/octagon"
+        "name": "octagon",
+        "class": "octagon"
     },
     {
-        "name": "core/package",
-        "class": "core/package"
+        "name": "package",
+        "class": "package"
     },
     {
-        "name": "core/pie-chart",
-        "class": "core/pie-chart"
+        "name": "pie-chart",
+        "class": "pie-chart"
     },
     {
-        "name": "core/plus-circle",
-        "class": "core/plus-circle"
+        "name": "plus-circle",
+        "class": "plus-circle"
     },
     {
-        "name": "core/plus-square",
-        "class": "core/plus-square"
+        "name": "plus-square",
+        "class": "plus-square"
     },
     {
-        "name": "core/plus",
-        "class": "core/plus"
+        "name": "plus",
+        "class": "plus"
     },
     {
-        "name": "core/power",
-        "class": "core/power"
+        "name": "power",
+        "class": "power"
     },
     {
-        "name": "core/printer",
-        "class": "core/printer"
+        "name": "printer",
+        "class": "printer"
     },
     {
-        "name": "core/radio",
-        "class": "core/radio"
+        "name": "radio",
+        "class": "radio"
     },
     {
-        "name": "core/refresh-ccw",
-        "class": "core/refresh-ccw"
+        "name": "refresh-ccw",
+        "class": "refresh-ccw"
     },
     {
-        "name": "core/refresh-cw",
-        "class": "core/refresh-cw"
+        "name": "refresh-cw",
+        "class": "refresh-cw"
     },
     {
-        "name": "core/rotate-ccw",
-        "class": "core/rotate-ccw"
+        "name": "rotate-ccw",
+        "class": "rotate-ccw"
     },
     {
-        "name": "core/rotate-cw",
-        "class": "core/rotate-cw"
+        "name": "rotate-cw",
+        "class": "rotate-cw"
     },
     {
-        "name": "core/scissors",
-        "class": "core/scissors"
+        "name": "scissors",
+        "class": "scissors"
     },
     {
-        "name": "core/search",
-        "class": "core/search"
+        "name": "search",
+        "class": "search"
     },
     {
-        "name": "core/settings",
-        "class": "core/settings"
+        "name": "settings",
+        "class": "settings"
     },
     {
-        "name": "core/share-2",
-        "class": "core/share-2"
+        "name": "share-2",
+        "class": "share-2"
     },
     {
-        "name": "core/share",
-        "class": "core/share"
+        "name": "share",
+        "class": "share"
     },
     {
-        "name": "core/slash",
-        "class": "core/slash"
+        "name": "slash",
+        "class": "slash"
     },
     {
-        "name": "core/speaker",
-        "class": "core/speaker"
+        "name": "speaker",
+        "class": "speaker"
     },
     {
-        "name": "core/square",
-        "class": "core/square"
+        "name": "square",
+        "class": "square"
     },
     {
-        "name": "core/star",
-        "class": "core/star"
+        "name": "star",
+        "class": "star"
     },
     {
-        "name": "core/tag",
-        "class": "core/tag"
+        "name": "tag",
+        "class": "tag"
     },
     {
-        "name": "core/target",
-        "class": "core/target"
+        "name": "target",
+        "class": "target"
     },
     {
-        "name": "core/thumbs-down",
-        "class": "core/thumbs-down"
+        "name": "thumbs-down",
+        "class": "thumbs-down"
     },
     {
-        "name": "core/thumbs-up",
-        "class": "core/thumbs-up"
+        "name": "thumbs-up",
+        "class": "thumbs-up"
     },
     {
-        "name": "core/toggle-left",
-        "class": "core/toggle-left"
+        "name": "toggle-left",
+        "class": "toggle-left"
     },
     {
-        "name": "core/toggle-right",
-        "class": "core/toggle-right"
+        "name": "toggle-right",
+        "class": "toggle-right"
     },
     {
-        "name": "core/trash-2",
-        "class": "core/trash-2"
+        "name": "trash-2",
+        "class": "trash-2"
     },
     {
-        "name": "core/trash",
-        "class": "core/trash"
+        "name": "trash",
+        "class": "trash"
     },
     {
-        "name": "core/trending-down",
-        "class": "core/trending-down"
+        "name": "trending-down",
+        "class": "trending-down"
     },
     {
-        "name": "core/trending-up",
-        "class": "core/trending-up"
+        "name": "trending-up",
+        "class": "trending-up"
     },
     {
-        "name": "core/triangle",
-        "class": "core/triangle"
+        "name": "triangle",
+        "class": "triangle"
     },
     {
-        "name": "core/type",
-        "class": "core/type"
+        "name": "type",
+        "class": "type"
     },
     {
-        "name": "core/unlock",
-        "class": "core/unlock"
+        "name": "unlock",
+        "class": "unlock"
     },
     {
-        "name": "core/upload-cloud",
-        "class": "core/upload-cloud"
+        "name": "upload-cloud",
+        "class": "upload-cloud"
     },
     {
-        "name": "core/upload",
-        "class": "core/upload"
+        "name": "upload",
+        "class": "upload"
     },
     {
-        "name": "core/user-check",
-        "class": "core/user-check"
+        "name": "user-check",
+        "class": "user-check"
     },
     {
-        "name": "core/user-minus",
-        "class": "core/user-minus"
+        "name": "user-minus",
+        "class": "user-minus"
     },
     {
-        "name": "core/user-plus",
-        "class": "core/user-plus"
+        "name": "user-plus",
+        "class": "user-plus"
     },
     {
-        "name": "core/user-x",
-        "class": "core/user-x"
+        "name": "user-x",
+        "class": "user-x"
     },
     {
-        "name": "core/user",
-        "class": "core/user"
+        "name": "user",
+        "class": "user"
     },
     {
-        "name": "core/watch",
-        "class": "core/watch"
+        "name": "watch",
+        "class": "watch"
     },
     {
-        "name": "core/wifi",
-        "class": "core/wifi"
+        "name": "wifi",
+        "class": "wifi"
     },
     {
-        "name": "core/x-circle",
-        "class": "core/x-circle"
+        "name": "x-circle",
+        "class": "x-circle"
     },
     {
-        "name": "core/x-square",
-        "class": "core/x-square"
+        "name": "x-square",
+        "class": "x-square"
     },
     {
-        "name": "core/x",
-        "class": "core/x"
+        "name": "x",
+        "class": "x"
     },
     {
-        "name": "core/zap",
-        "class": "core/zap"
+        "name": "zap",
+        "class": "zap"
     },
     {
-        "name": "core/zoom-in",
-        "class": "core/zoom-in"
+        "name": "zoom-in",
+        "class": "zoom-in"
     },
     {
-        "name": "core/zoom-out",
-        "class": "core/zoom-out"
+        "name": "zoom-out",
+        "class": "zoom-out"
     },
     {
         "name": "media-controls/fast-forward",
@@ -580,48 +580,48 @@
         "class": "media-controls/volume"
     },
     {
-        "name": "communication/mail",
-        "class": "communication/mail"
+        "name": "mail",
+        "class": "mail"
     },
     {
-        "name": "communication/message-circle",
-        "class": "communication/message-circle"
+        "name": "message-circle",
+        "class": "message-circle"
     },
     {
-        "name": "communication/message-square",
-        "class": "communication/message-square"
+        "name": "message-square",
+        "class": "message-square"
     },
     {
-        "name": "communication/phone-call",
-        "class": "communication/phone-call"
+        "name": "phone-call",
+        "class": "phone-call"
     },
     {
-        "name": "communication/phone-forwarded",
-        "class": "communication/phone-forwarded"
+        "name": "phone-forwarded",
+        "class": "phone-forwarded"
     },
     {
-        "name": "communication/phone-incoming",
-        "class": "communication/phone-incoming"
+        "name": "phone-incoming",
+        "class": "phone-incoming"
     },
     {
-        "name": "communication/phone-missed",
-        "class": "communication/phone-missed"
+        "name": "phone-missed",
+        "class": "phone-missed"
     },
     {
-        "name": "communication/phone-off",
-        "class": "communication/phone-off"
+        "name": "phone-off",
+        "class": "phone-off"
     },
     {
-        "name": "communication/phone-outgoing",
-        "class": "communication/phone-outgoing"
+        "name": "phone-outgoing",
+        "class": "phone-outgoing"
     },
     {
-        "name": "communication/phone",
-        "class": "communication/phone"
+        "name": "phone",
+        "class": "phone"
     },
     {
-        "name": "communication/voicemail",
-        "class": "communication/voicemail"
+        "name": "voicemail",
+        "class": "voicemail"
     },
     {
         "name": "photo-and-video/aperture",
@@ -648,171 +648,171 @@
         "class": "photo-and-video/video"
     },
     {
-        "name": "location/compass",
-        "class": "location/compass"
+        "name": "compass",
+        "class": "compass"
     },
     {
-        "name": "location/crosshair",
-        "class": "location/crosshair"
+        "name": "crosshair",
+        "class": "crosshair"
     },
     {
-        "name": "location/globe",
-        "class": "location/globe"
+        "name": "globe",
+        "class": "globe"
     },
     {
-        "name": "location/map-pin",
-        "class": "location/map-pin"
+        "name": "map-pin",
+        "class": "map-pin"
     },
     {
-        "name": "location/map",
-        "class": "location/map"
+        "name": "map",
+        "class": "map"
     },
     {
-        "name": "location/navigation-2",
-        "class": "location/navigation-2"
+        "name": "navigation-2",
+        "class": "navigation-2"
     },
     {
-        "name": "location/navigation",
-        "class": "location/navigation"
+        "name": "navigation",
+        "class": "navigation"
     },
     {
-        "name": "weather/cloud-drizzle",
-        "class": "weather/cloud-drizzle"
+        "name": "cloud-drizzle",
+        "class": "cloud-drizzle"
     },
     {
-        "name": "weather/cloud-lightning",
-        "class": "weather/cloud-lightning"
+        "name": "cloud-lightning",
+        "class": "cloud-lightning"
     },
     {
-        "name": "weather/cloud-rain",
-        "class": "weather/cloud-rain"
+        "name": "cloud-rain",
+        "class": "cloud-rain"
     },
     {
-        "name": "weather/cloud-snow",
-        "class": "weather/cloud-snow"
+        "name": "cloud-snow",
+        "class": "cloud-snow"
     },
     {
-        "name": "weather/droplet",
-        "class": "weather/droplet"
+        "name": "droplet",
+        "class": "droplet"
     },
     {
-        "name": "weather/moon",
-        "class": "weather/moon"
+        "name": "moon",
+        "class": "moon"
     },
     {
-        "name": "weather/sun",
-        "class": "weather/sun"
+        "name": "sun",
+        "class": "sun"
     },
     {
-        "name": "weather/sunrise",
-        "class": "weather/sunrise"
+        "name": "sunrise",
+        "class": "sunrise"
     },
     {
-        "name": "weather/sunset",
-        "class": "weather/sunset"
+        "name": "sunset",
+        "class": "sunset"
     },
     {
-        "name": "weather/thermometer",
-        "class": "weather/thermometer"
+        "name": "thermometer",
+        "class": "thermometer"
     },
     {
-        "name": "weather/umbrella",
-        "class": "weather/umbrella"
+        "name": "umbrella",
+        "class": "umbrella"
     },
     {
-        "name": "weather/wind",
-        "class": "weather/wind"
+        "name": "wind",
+        "class": "wind"
     },
     {
-        "name": "arrows/arrow-down-left",
-        "class": "arrows/arrow-down-left"
+        "name": "arrow-down-left",
+        "class": "arrow-down-left"
     },
     {
-        "name": "arrows/arrow-down-right",
-        "class": "arrows/arrow-down-right"
+        "name": "arrow-down-right",
+        "class": "arrow-down-right"
     },
     {
-        "name": "arrows/arrow-down",
-        "class": "arrows/arrow-down"
+        "name": "arrow-down",
+        "class": "arrow-down"
     },
     {
-        "name": "arrows/arrow-left",
-        "class": "arrows/arrow-left"
+        "name": "arrow-left",
+        "class": "arrow-left"
     },
     {
-        "name": "arrows/arrow-right",
-        "class": "arrows/arrow-right"
+        "name": "arrow-right",
+        "class": "arrow-right"
     },
     {
-        "name": "arrows/arrow-up-left",
-        "class": "arrows/arrow-up-left"
+        "name": "arrow-up-left",
+        "class": "arrow-up-left"
     },
     {
-        "name": "arrows/arrow-up-right",
-        "class": "arrows/arrow-up-right"
+        "name": "arrow-up-right",
+        "class": "arrow-up-right"
     },
     {
-        "name": "arrows/arrow-up",
-        "class": "arrows/arrow-up"
+        "name": "arrow-up",
+        "class": "arrow-up"
     },
     {
-        "name": "arrows/chevron-down",
-        "class": "arrows/chevron-down"
+        "name": "chevron-down",
+        "class": "chevron-down"
     },
     {
-        "name": "arrows/chevron-left",
-        "class": "arrows/chevron-left"
+        "name": "chevron-left",
+        "class": "chevron-left"
     },
     {
-        "name": "arrows/chevron-right",
-        "class": "arrows/chevron-right"
+        "name": "chevron-right",
+        "class": "chevron-right"
     },
     {
-        "name": "arrows/chevron-up",
-        "class": "arrows/chevron-up"
+        "name": "chevron-up",
+        "class": "chevron-up"
     },
     {
-        "name": "arrows/chevrons-down",
-        "class": "arrows/chevrons-down"
+        "name": "chevrons-down",
+        "class": "chevrons-down"
     },
     {
-        "name": "arrows/chevrons-left",
-        "class": "arrows/chevrons-left"
+        "name": "chevrons-left",
+        "class": "chevrons-left"
     },
     {
-        "name": "arrows/chevrons-right",
-        "class": "arrows/chevrons-right"
+        "name": "chevrons-right",
+        "class": "chevrons-right"
     },
     {
-        "name": "arrows/chevrons-up",
-        "class": "arrows/chevrons-up"
+        "name": "chevrons-up",
+        "class": "chevrons-up"
     },
     {
-        "name": "logos/chrome",
-        "class": "logos/chrome"
+        "name": "chrome",
+        "class": "chrome"
     },
     {
-        "name": "logos/codepen",
-        "class": "logos/codepen"
+        "name": "codepen",
+        "class": "codepen"
     },
     {
-        "name": "logos/facebook",
-        "class": "logos/facebook"
+        "name": "facebook",
+        "class": "facebook"
     },
     {
-        "name": "logos/instagram",
-        "class": "logos/instagram"
+        "name": "instagram",
+        "class": "instagram"
     },
     {
-        "name": "logos/pocket",
-        "class": "logos/pocket"
+        "name": "pocket",
+        "class": "pocket"
     },
     {
-        "name": "logos/slack",
-        "class": "logos/slack"
+        "name": "slack",
+        "class": "slack"
     },
     {
-        "name": "logos/twitter",
-        "class": "logos/twitter"
+        "name": "twitter",
+        "class": "twitter"
     }
 ]
