@@ -1,0 +1,818 @@
+[
+    {
+        "name": "core/activity",
+        "class": "core/activity"
+    },
+    {
+        "name": "core/airplay",
+        "class": "core/airplay"
+    },
+    {
+        "name": "core/alert-circle",
+        "class": "core/alert-circle"
+    },
+    {
+        "name": "core/alert-octagon",
+        "class": "core/alert-octagon"
+    },
+    {
+        "name": "core/alert-triangle",
+        "class": "core/alert-triangle"
+    },
+    {
+        "name": "core/align-center",
+        "class": "core/align-center"
+    },
+    {
+        "name": "core/align-justify",
+        "class": "core/align-justify"
+    },
+    {
+        "name": "core/align-left",
+        "class": "core/align-left"
+    },
+    {
+        "name": "core/align-right",
+        "class": "core/align-right"
+    },
+    {
+        "name": "core/anchor",
+        "class": "core/anchor"
+    },
+    {
+        "name": "core/at-sign",
+        "class": "core/at-sign"
+    },
+    {
+        "name": "core/award",
+        "class": "core/award"
+    },
+    {
+        "name": "core/bar-chart-2",
+        "class": "core/bar-chart-2"
+    },
+    {
+        "name": "core/bar-chart",
+        "class": "core/bar-chart"
+    },
+    {
+        "name": "core/battery-charging",
+        "class": "core/battery-charging"
+    },
+    {
+        "name": "core/battery",
+        "class": "core/battery"
+    },
+    {
+        "name": "core/bell-off",
+        "class": "core/bell-off"
+    },
+    {
+        "name": "core/bell",
+        "class": "core/bell"
+    },
+    {
+        "name": "core/bluetooth",
+        "class": "core/bluetooth"
+    },
+    {
+        "name": "core/book",
+        "class": "core/book"
+    },
+    {
+        "name": "core/bookmark",
+        "class": "core/bookmark"
+    },
+    {
+        "name": "core/box",
+        "class": "core/box"
+    },
+    {
+        "name": "core/briefcase",
+        "class": "core/briefcase"
+    },
+    {
+        "name": "core/calendar",
+        "class": "core/calendar"
+    },
+    {
+        "name": "core/cast",
+        "class": "core/cast"
+    },
+    {
+        "name": "core/check-circle",
+        "class": "core/check-circle"
+    },
+    {
+        "name": "core/check-square",
+        "class": "core/check-square"
+    },
+    {
+        "name": "core/check",
+        "class": "core/check"
+    },
+    {
+        "name": "core/circle",
+        "class": "core/circle"
+    },
+    {
+        "name": "core/clipboard",
+        "class": "core/clipboard"
+    },
+    {
+        "name": "core/clock",
+        "class": "core/clock"
+    },
+    {
+        "name": "core/cloud-off",
+        "class": "core/cloud-off"
+    },
+    {
+        "name": "core/cloud",
+        "class": "core/cloud"
+    },
+    {
+        "name": "core/command",
+        "class": "core/command"
+    },
+    {
+        "name": "core/copy",
+        "class": "core/copy"
+    },
+    {
+        "name": "core/cpu",
+        "class": "core/cpu"
+    },
+    {
+        "name": "core/delete",
+        "class": "core/delete"
+    },
+    {
+        "name": "core/disc",
+        "class": "core/disc"
+    },
+    {
+        "name": "core/download-cloud",
+        "class": "core/download-cloud"
+    },
+    {
+        "name": "core/download",
+        "class": "core/download"
+    },
+    {
+        "name": "core/edit-2",
+        "class": "core/edit-2"
+    },
+    {
+        "name": "core/edit-3",
+        "class": "core/edit-3"
+    },
+    {
+        "name": "core/edit",
+        "class": "core/edit"
+    },
+    {
+        "name": "core/external-link",
+        "class": "core/external-link"
+    },
+    {
+        "name": "core/eye-off",
+        "class": "core/eye-off"
+    },
+    {
+        "name": "core/eye",
+        "class": "core/eye"
+    },
+    {
+        "name": "core/feather",
+        "class": "core/feather"
+    },
+    {
+        "name": "core/file",
+        "class": "core/file"
+    },
+    {
+        "name": "core/filter",
+        "class": "core/filter"
+    },
+    {
+        "name": "core/flag",
+        "class": "core/flag"
+    },
+    {
+        "name": "core/folder",
+        "class": "core/folder"
+    },
+    {
+        "name": "core/grid",
+        "class": "core/grid"
+    },
+    {
+        "name": "core/hash",
+        "class": "core/hash"
+    },
+    {
+        "name": "core/headphones",
+        "class": "core/headphones"
+    },
+    {
+        "name": "core/heart",
+        "class": "core/heart"
+    },
+    {
+        "name": "core/home",
+        "class": "core/home"
+    },
+    {
+        "name": "core/inbox",
+        "class": "core/inbox"
+    },
+    {
+        "name": "core/info",
+        "class": "core/info"
+    },
+    {
+        "name": "core/layers",
+        "class": "core/layers"
+    },
+    {
+        "name": "core/layout",
+        "class": "core/layout"
+    },
+    {
+        "name": "core/life-buoy",
+        "class": "core/life-buoy"
+    },
+    {
+        "name": "core/link-2",
+        "class": "core/link-2"
+    },
+    {
+        "name": "core/link",
+        "class": "core/link"
+    },
+    {
+        "name": "core/list",
+        "class": "core/list"
+    },
+    {
+        "name": "core/loader",
+        "class": "core/loader"
+    },
+    {
+        "name": "core/lock",
+        "class": "core/lock"
+    },
+    {
+        "name": "core/log-in",
+        "class": "core/log-in"
+    },
+    {
+        "name": "core/log-out",
+        "class": "core/log-out"
+    },
+    {
+        "name": "core/maximize-2",
+        "class": "core/maximize-2"
+    },
+    {
+        "name": "core/maximize",
+        "class": "core/maximize"
+    },
+    {
+        "name": "core/menu",
+        "class": "core/menu"
+    },
+    {
+        "name": "core/mic-off",
+        "class": "core/mic-off"
+    },
+    {
+        "name": "core/mic",
+        "class": "core/mic"
+    },
+    {
+        "name": "core/minimize-2",
+        "class": "core/minimize-2"
+    },
+    {
+        "name": "core/minimize",
+        "class": "core/minimize"
+    },
+    {
+        "name": "core/minus-circle",
+        "class": "core/minus-circle"
+    },
+    {
+        "name": "core/minus-square",
+        "class": "core/minus-square"
+    },
+    {
+        "name": "core/minus",
+        "class": "core/minus"
+    },
+    {
+        "name": "core/monitor",
+        "class": "core/monitor"
+    },
+    {
+        "name": "core/more-horizontal",
+        "class": "core/more-horizontal"
+    },
+    {
+        "name": "core/more-vertical",
+        "class": "core/more-vertical"
+    },
+    {
+        "name": "core/move",
+        "class": "core/move"
+    },
+    {
+        "name": "core/music",
+        "class": "core/music"
+    },
+    {
+        "name": "core/octagon",
+        "class": "core/octagon"
+    },
+    {
+        "name": "core/package",
+        "class": "core/package"
+    },
+    {
+        "name": "core/pie-chart",
+        "class": "core/pie-chart"
+    },
+    {
+        "name": "core/plus-circle",
+        "class": "core/plus-circle"
+    },
+    {
+        "name": "core/plus-square",
+        "class": "core/plus-square"
+    },
+    {
+        "name": "core/plus",
+        "class": "core/plus"
+    },
+    {
+        "name": "core/power",
+        "class": "core/power"
+    },
+    {
+        "name": "core/printer",
+        "class": "core/printer"
+    },
+    {
+        "name": "core/radio",
+        "class": "core/radio"
+    },
+    {
+        "name": "core/refresh-ccw",
+        "class": "core/refresh-ccw"
+    },
+    {
+        "name": "core/refresh-cw",
+        "class": "core/refresh-cw"
+    },
+    {
+        "name": "core/rotate-ccw",
+        "class": "core/rotate-ccw"
+    },
+    {
+        "name": "core/rotate-cw",
+        "class": "core/rotate-cw"
+    },
+    {
+        "name": "core/scissors",
+        "class": "core/scissors"
+    },
+    {
+        "name": "core/search",
+        "class": "core/search"
+    },
+    {
+        "name": "core/settings",
+        "class": "core/settings"
+    },
+    {
+        "name": "core/share-2",
+        "class": "core/share-2"
+    },
+    {
+        "name": "core/share",
+        "class": "core/share"
+    },
+    {
+        "name": "core/slash",
+        "class": "core/slash"
+    },
+    {
+        "name": "core/speaker",
+        "class": "core/speaker"
+    },
+    {
+        "name": "core/square",
+        "class": "core/square"
+    },
+    {
+        "name": "core/star",
+        "class": "core/star"
+    },
+    {
+        "name": "core/tag",
+        "class": "core/tag"
+    },
+    {
+        "name": "core/target",
+        "class": "core/target"
+    },
+    {
+        "name": "core/thumbs-down",
+        "class": "core/thumbs-down"
+    },
+    {
+        "name": "core/thumbs-up",
+        "class": "core/thumbs-up"
+    },
+    {
+        "name": "core/toggle-left",
+        "class": "core/toggle-left"
+    },
+    {
+        "name": "core/toggle-right",
+        "class": "core/toggle-right"
+    },
+    {
+        "name": "core/trash-2",
+        "class": "core/trash-2"
+    },
+    {
+        "name": "core/trash",
+        "class": "core/trash"
+    },
+    {
+        "name": "core/trending-down",
+        "class": "core/trending-down"
+    },
+    {
+        "name": "core/trending-up",
+        "class": "core/trending-up"
+    },
+    {
+        "name": "core/triangle",
+        "class": "core/triangle"
+    },
+    {
+        "name": "core/type",
+        "class": "core/type"
+    },
+    {
+        "name": "core/unlock",
+        "class": "core/unlock"
+    },
+    {
+        "name": "core/upload-cloud",
+        "class": "core/upload-cloud"
+    },
+    {
+        "name": "core/upload",
+        "class": "core/upload"
+    },
+    {
+        "name": "core/user-check",
+        "class": "core/user-check"
+    },
+    {
+        "name": "core/user-minus",
+        "class": "core/user-minus"
+    },
+    {
+        "name": "core/user-plus",
+        "class": "core/user-plus"
+    },
+    {
+        "name": "core/user-x",
+        "class": "core/user-x"
+    },
+    {
+        "name": "core/user",
+        "class": "core/user"
+    },
+    {
+        "name": "core/watch",
+        "class": "core/watch"
+    },
+    {
+        "name": "core/wifi",
+        "class": "core/wifi"
+    },
+    {
+        "name": "core/x-circle",
+        "class": "core/x-circle"
+    },
+    {
+        "name": "core/x-square",
+        "class": "core/x-square"
+    },
+    {
+        "name": "core/x",
+        "class": "core/x"
+    },
+    {
+        "name": "core/zap",
+        "class": "core/zap"
+    },
+    {
+        "name": "core/zoom-in",
+        "class": "core/zoom-in"
+    },
+    {
+        "name": "core/zoom-out",
+        "class": "core/zoom-out"
+    },
+    {
+        "name": "media-controls/fast-forward",
+        "class": "media-controls/fast-forward"
+    },
+    {
+        "name": "media-controls/pause",
+        "class": "media-controls/pause"
+    },
+    {
+        "name": "media-controls/play",
+        "class": "media-controls/play"
+    },
+    {
+        "name": "media-controls/repeat",
+        "class": "media-controls/repeat"
+    },
+    {
+        "name": "media-controls/rewind",
+        "class": "media-controls/rewind"
+    },
+    {
+        "name": "media-controls/shuffle",
+        "class": "media-controls/shuffle"
+    },
+    {
+        "name": "media-controls/skip-back",
+        "class": "media-controls/skip-back"
+    },
+    {
+        "name": "media-controls/skip-forward",
+        "class": "media-controls/skip-forward"
+    },
+    {
+        "name": "media-controls/volume-1",
+        "class": "media-controls/volume-1"
+    },
+    {
+        "name": "media-controls/volume-2",
+        "class": "media-controls/volume-2"
+    },
+    {
+        "name": "media-controls/volume-x",
+        "class": "media-controls/volume-x"
+    },
+    {
+        "name": "media-controls/volume",
+        "class": "media-controls/volume"
+    },
+    {
+        "name": "communication/mail",
+        "class": "communication/mail"
+    },
+    {
+        "name": "communication/message-circle",
+        "class": "communication/message-circle"
+    },
+    {
+        "name": "communication/message-square",
+        "class": "communication/message-square"
+    },
+    {
+        "name": "communication/phone-call",
+        "class": "communication/phone-call"
+    },
+    {
+        "name": "communication/phone-forwarded",
+        "class": "communication/phone-forwarded"
+    },
+    {
+        "name": "communication/phone-incoming",
+        "class": "communication/phone-incoming"
+    },
+    {
+        "name": "communication/phone-missed",
+        "class": "communication/phone-missed"
+    },
+    {
+        "name": "communication/phone-off",
+        "class": "communication/phone-off"
+    },
+    {
+        "name": "communication/phone-outgoing",
+        "class": "communication/phone-outgoing"
+    },
+    {
+        "name": "communication/phone",
+        "class": "communication/phone"
+    },
+    {
+        "name": "communication/voicemail",
+        "class": "communication/voicemail"
+    },
+    {
+        "name": "photo-and-video/aperture",
+        "class": "photo-and-video/aperture"
+    },
+    {
+        "name": "photo-and-video/camera-off",
+        "class": "photo-and-video/camera-off"
+    },
+    {
+        "name": "photo-and-video/camera",
+        "class": "photo-and-video/camera"
+    },
+    {
+        "name": "photo-and-video/image",
+        "class": "photo-and-video/image"
+    },
+    {
+        "name": "photo-and-video/video-off",
+        "class": "photo-and-video/video-off"
+    },
+    {
+        "name": "photo-and-video/video",
+        "class": "photo-and-video/video"
+    },
+    {
+        "name": "location/compass",
+        "class": "location/compass"
+    },
+    {
+        "name": "location/crosshair",
+        "class": "location/crosshair"
+    },
+    {
+        "name": "location/globe",
+        "class": "location/globe"
+    },
+    {
+        "name": "location/map-pin",
+        "class": "location/map-pin"
+    },
+    {
+        "name": "location/map",
+        "class": "location/map"
+    },
+    {
+        "name": "location/navigation-2",
+        "class": "location/navigation-2"
+    },
+    {
+        "name": "location/navigation",
+        "class": "location/navigation"
+    },
+    {
+        "name": "weather/cloud-drizzle",
+        "class": "weather/cloud-drizzle"
+    },
+    {
+        "name": "weather/cloud-lightning",
+        "class": "weather/cloud-lightning"
+    },
+    {
+        "name": "weather/cloud-rain",
+        "class": "weather/cloud-rain"
+    },
+    {
+        "name": "weather/cloud-snow",
+        "class": "weather/cloud-snow"
+    },
+    {
+        "name": "weather/droplet",
+        "class": "weather/droplet"
+    },
+    {
+        "name": "weather/moon",
+        "class": "weather/moon"
+    },
+    {
+        "name": "weather/sun",
+        "class": "weather/sun"
+    },
+    {
+        "name": "weather/sunrise",
+        "class": "weather/sunrise"
+    },
+    {
+        "name": "weather/sunset",
+        "class": "weather/sunset"
+    },
+    {
+        "name": "weather/thermometer",
+        "class": "weather/thermometer"
+    },
+    {
+        "name": "weather/umbrella",
+        "class": "weather/umbrella"
+    },
+    {
+        "name": "weather/wind",
+        "class": "weather/wind"
+    },
+    {
+        "name": "arrows/arrow-down-left",
+        "class": "arrows/arrow-down-left"
+    },
+    {
+        "name": "arrows/arrow-down-right",
+        "class": "arrows/arrow-down-right"
+    },
+    {
+        "name": "arrows/arrow-down",
+        "class": "arrows/arrow-down"
+    },
+    {
+        "name": "arrows/arrow-left",
+        "class": "arrows/arrow-left"
+    },
+    {
+        "name": "arrows/arrow-right",
+        "class": "arrows/arrow-right"
+    },
+    {
+        "name": "arrows/arrow-up-left",
+        "class": "arrows/arrow-up-left"
+    },
+    {
+        "name": "arrows/arrow-up-right",
+        "class": "arrows/arrow-up-right"
+    },
+    {
+        "name": "arrows/arrow-up",
+        "class": "arrows/arrow-up"
+    },
+    {
+        "name": "arrows/chevron-down",
+        "class": "arrows/chevron-down"
+    },
+    {
+        "name": "arrows/chevron-left",
+        "class": "arrows/chevron-left"
+    },
+    {
+        "name": "arrows/chevron-right",
+        "class": "arrows/chevron-right"
+    },
+    {
+        "name": "arrows/chevron-up",
+        "class": "arrows/chevron-up"
+    },
+    {
+        "name": "arrows/chevrons-down",
+        "class": "arrows/chevrons-down"
+    },
+    {
+        "name": "arrows/chevrons-left",
+        "class": "arrows/chevrons-left"
+    },
+    {
+        "name": "arrows/chevrons-right",
+        "class": "arrows/chevrons-right"
+    },
+    {
+        "name": "arrows/chevrons-up",
+        "class": "arrows/chevrons-up"
+    },
+    {
+        "name": "logos/chrome",
+        "class": "logos/chrome"
+    },
+    {
+        "name": "logos/codepen",
+        "class": "logos/codepen"
+    },
+    {
+        "name": "logos/facebook",
+        "class": "logos/facebook"
+    },
+    {
+        "name": "logos/instagram",
+        "class": "logos/instagram"
+    },
+    {
+        "name": "logos/pocket",
+        "class": "logos/pocket"
+    },
+    {
+        "name": "logos/slack",
+        "class": "logos/slack"
+    },
+    {
+        "name": "logos/twitter",
+        "class": "logos/twitter"
+    }
+]
