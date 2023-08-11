@@ -1,0 +1,818 @@
+[
+    {
+        "name": "activity",
+        "class": "activity"
+    },
+    {
+        "name": "airplay",
+        "class": "airplay"
+    },
+    {
+        "name": "alert-circle",
+        "class": "alert-circle"
+    },
+    {
+        "name": "alert-octagon",
+        "class": "alert-octagon"
+    },
+    {
+        "name": "alert-triangle",
+        "class": "alert-triangle"
+    },
+    {
+        "name": "align-center",
+        "class": "align-center"
+    },
+    {
+        "name": "align-justify",
+        "class": "align-justify"
+    },
+    {
+        "name": "align-left",
+        "class": "align-left"
+    },
+    {
+        "name": "align-right",
+        "class": "align-right"
+    },
+    {
+        "name": "anchor",
+        "class": "anchor"
+    },
+    {
+        "name": "at-sign",
+        "class": "at-sign"
+    },
+    {
+        "name": "award",
+        "class": "award"
+    },
+    {
+        "name": "bar-chart-2",
+        "class": "bar-chart-2"
+    },
+    {
+        "name": "bar-chart",
+        "class": "bar-chart"
+    },
+    {
+        "name": "battery-charging",
+        "class": "battery-charging"
+    },
+    {
+        "name": "battery",
+        "class": "battery"
+    },
+    {
+        "name": "bell-off",
+        "class": "bell-off"
+    },
+    {
+        "name": "bell",
+        "class": "bell"
+    },
+    {
+        "name": "bluetooth",
+        "class": "bluetooth"
+    },
+    {
+        "name": "book",
+        "class": "book"
+    },
+    {
+        "name": "bookmark",
+        "class": "bookmark"
+    },
+    {
+        "name": "box",
+        "class": "box"
+    },
+    {
+        "name": "briefcase",
+        "class": "briefcase"
+    },
+    {
+        "name": "calendar",
+        "class": "calendar"
+    },
+    {
+        "name": "cast",
+        "class": "cast"
+    },
+    {
+        "name": "check-circle",
+        "class": "check-circle"
+    },
+    {
+        "name": "check-square",
+        "class": "check-square"
+    },
+    {
+        "name": "check",
+        "class": "check"
+    },
+    {
+        "name": "circle",
+        "class": "circle"
+    },
+    {
+        "name": "clipboard",
+        "class": "clipboard"
+    },
+    {
+        "name": "clock",
+        "class": "clock"
+    },
+    {
+        "name": "cloud-off",
+        "class": "cloud-off"
+    },
+    {
+        "name": "cloud",
+        "class": "cloud"
+    },
+    {
+        "name": "command",
+        "class": "command"
+    },
+    {
+        "name": "copy",
+        "class": "copy"
+    },
+    {
+        "name": "cpu",
+        "class": "cpu"
+    },
+    {
+        "name": "delete",
+        "class": "delete"
+    },
+    {
+        "name": "disc",
+        "class": "disc"
+    },
+    {
+        "name": "download-cloud",
+        "class": "download-cloud"
+    },
+    {
+        "name": "download",
+        "class": "download"
+    },
+    {
+        "name": "edit-2",
+        "class": "edit-2"
+    },
+    {
+        "name": "edit-3",
+        "class": "edit-3"
+    },
+    {
+        "name": "edit",
+        "class": "edit"
+    },
+    {
+        "name": "external-link",
+        "class": "external-link"
+    },
+    {
+        "name": "eye-off",
+        "class": "eye-off"
+    },
+    {
+        "name": "eye",
+        "class": "eye"
+    },
+    {
+        "name": "feather",
+        "class": "feather"
+    },
+    {
+        "name": "file",
+        "class": "file"
+    },
+    {
+        "name": "filter",
+        "class": "filter"
+    },
+    {
+        "name": "flag",
+        "class": "flag"
+    },
+    {
+        "name": "folder",
+        "class": "folder"
+    },
+    {
+        "name": "grid",
+        "class": "grid"
+    },
+    {
+        "name": "hash",
+        "class": "hash"
+    },
+    {
+        "name": "headphones",
+        "class": "headphones"
+    },
+    {
+        "name": "heart",
+        "class": "heart"
+    },
+    {
+        "name": "home",
+        "class": "home"
+    },
+    {
+        "name": "inbox",
+        "class": "inbox"
+    },
+    {
+        "name": "info",
+        "class": "info"
+    },
+    {
+        "name": "layers",
+        "class": "layers"
+    },
+    {
+        "name": "layout",
+        "class": "layout"
+    },
+    {
+        "name": "life-buoy",
+        "class": "life-buoy"
+    },
+    {
+        "name": "link-2",
+        "class": "link-2"
+    },
+    {
+        "name": "link",
+        "class": "link"
+    },
+    {
+        "name": "list",
+        "class": "list"
+    },
+    {
+        "name": "loader",
+        "class": "loader"
+    },
+    {
+        "name": "lock",
+        "class": "lock"
+    },
+    {
+        "name": "log-in",
+        "class": "log-in"
+    },
+    {
+        "name": "log-out",
+        "class": "log-out"
+    },
+    {
+        "name": "maximize-2",
+        "class": "maximize-2"
+    },
+    {
+        "name": "maximize",
+        "class": "maximize"
+    },
+    {
+        "name": "menu",
+        "class": "menu"
+    },
+    {
+        "name": "mic-off",
+        "class": "mic-off"
+    },
+    {
+        "name": "mic",
+        "class": "mic"
+    },
+    {
+        "name": "minimize-2",
+        "class": "minimize-2"
+    },
+    {
+        "name": "minimize",
+        "class": "minimize"
+    },
+    {
+        "name": "minus-circle",
+        "class": "minus-circle"
+    },
+    {
+        "name": "minus-square",
+        "class": "minus-square"
+    },
+    {
+        "name": "minus",
+        "class": "minus"
+    },
+    {
+        "name": "monitor",
+        "class": "monitor"
+    },
+    {
+        "name": "more-horizontal",
+        "class": "more-horizontal"
+    },
+    {
+        "name": "more-vertical",
+        "class": "more-vertical"
+    },
+    {
+        "name": "move",
+        "class": "move"
+    },
+    {
+        "name": "music",
+        "class": "music"
+    },
+    {
+        "name": "octagon",
+        "class": "octagon"
+    },
+    {
+        "name": "package",
+        "class": "package"
+    },
+    {
+        "name": "pie-chart",
+        "class": "pie-chart"
+    },
+    {
+        "name": "plus-circle",
+        "class": "plus-circle"
+    },
+    {
+        "name": "plus-square",
+        "class": "plus-square"
+    },
+    {
+        "name": "plus",
+        "class": "plus"
+    },
+    {
+        "name": "power",
+        "class": "power"
+    },
+    {
+        "name": "printer",
+        "class": "printer"
+    },
+    {
+        "name": "radio",
+        "class": "radio"
+    },
+    {
+        "name": "refresh-ccw",
+        "class": "refresh-ccw"
+    },
+    {
+        "name": "refresh-cw",
+        "class": "refresh-cw"
+    },
+    {
+        "name": "rotate-ccw",
+        "class": "rotate-ccw"
+    },
+    {
+        "name": "rotate-cw",
+        "class": "rotate-cw"
+    },
+    {
+        "name": "scissors",
+        "class": "scissors"
+    },
+    {
+        "name": "search",
+        "class": "search"
+    },
+    {
+        "name": "settings",
+        "class": "settings"
+    },
+    {
+        "name": "share-2",
+        "class": "share-2"
+    },
+    {
+        "name": "share",
+        "class": "share"
+    },
+    {
+        "name": "slash",
+        "class": "slash"
+    },
+    {
+        "name": "speaker",
+        "class": "speaker"
+    },
+    {
+        "name": "square",
+        "class": "square"
+    },
+    {
+        "name": "star",
+        "class": "star"
+    },
+    {
+        "name": "tag",
+        "class": "tag"
+    },
+    {
+        "name": "target",
+        "class": "target"
+    },
+    {
+        "name": "thumbs-down",
+        "class": "thumbs-down"
+    },
+    {
+        "name": "thumbs-up",
+        "class": "thumbs-up"
+    },
+    {
+        "name": "toggle-left",
+        "class": "toggle-left"
+    },
+    {
+        "name": "toggle-right",
+        "class": "toggle-right"
+    },
+    {
+        "name": "trash-2",
+        "class": "trash-2"
+    },
+    {
+        "name": "trash",
+        "class": "trash"
+    },
+    {
+        "name": "trending-down",
+        "class": "trending-down"
+    },
+    {
+        "name": "trending-up",
+        "class": "trending-up"
+    },
+    {
+        "name": "triangle",
+        "class": "triangle"
+    },
+    {
+        "name": "type",
+        "class": "type"
+    },
+    {
+        "name": "unlock",
+        "class": "unlock"
+    },
+    {
+        "name": "upload-cloud",
+        "class": "upload-cloud"
+    },
+    {
+        "name": "upload",
+        "class": "upload"
+    },
+    {
+        "name": "user-check",
+        "class": "user-check"
+    },
+    {
+        "name": "user-minus",
+        "class": "user-minus"
+    },
+    {
+        "name": "user-plus",
+        "class": "user-plus"
+    },
+    {
+        "name": "user-x",
+        "class": "user-x"
+    },
+    {
+        "name": "user",
+        "class": "user"
+    },
+    {
+        "name": "watch",
+        "class": "watch"
+    },
+    {
+        "name": "wifi",
+        "class": "wifi"
+    },
+    {
+        "name": "x-circle",
+        "class": "x-circle"
+    },
+    {
+        "name": "x-square",
+        "class": "x-square"
+    },
+    {
+        "name": "x",
+        "class": "x"
+    },
+    {
+        "name": "zap",
+        "class": "zap"
+    },
+    {
+        "name": "zoom-in",
+        "class": "zoom-in"
+    },
+    {
+        "name": "zoom-out",
+        "class": "zoom-out"
+    },
+    {
+        "name": "media-controls/fast-forward",
+        "class": "media-controls/fast-forward"
+    },
+    {
+        "name": "media-controls/pause",
+        "class": "media-controls/pause"
+    },
+    {
+        "name": "media-controls/play",
+        "class": "media-controls/play"
+    },
+    {
+        "name": "media-controls/repeat",
+        "class": "media-controls/repeat"
+    },
+    {
+        "name": "media-controls/rewind",
+        "class": "media-controls/rewind"
+    },
+    {
+        "name": "media-controls/shuffle",
+        "class": "media-controls/shuffle"
+    },
+    {
+        "name": "media-controls/skip-back",
+        "class": "media-controls/skip-back"
+    },
+    {
+        "name": "media-controls/skip-forward",
+        "class": "media-controls/skip-forward"
+    },
+    {
+        "name": "media-controls/volume-1",
+        "class": "media-controls/volume-1"
+    },
+    {
+        "name": "media-controls/volume-2",
+        "class": "media-controls/volume-2"
+    },
+    {
+        "name": "media-controls/volume-x",
+        "class": "media-controls/volume-x"
+    },
+    {
+        "name": "media-controls/volume",
+        "class": "media-controls/volume"
+    },
+    {
+        "name": "mail",
+        "class": "mail"
+    },
+    {
+        "name": "message-circle",
+        "class": "message-circle"
+    },
+    {
+        "name": "message-square",
+        "class": "message-square"
+    },
+    {
+        "name": "phone-call",
+        "class": "phone-call"
+    },
+    {
+        "name": "phone-forwarded",
+        "class": "phone-forwarded"
+    },
+    {
+        "name": "phone-incoming",
+        "class": "phone-incoming"
+    },
+    {
+        "name": "phone-missed",
+        "class": "phone-missed"
+    },
+    {
+        "name": "phone-off",
+        "class": "phone-off"
+    },
+    {
+        "name": "phone-outgoing",
+        "class": "phone-outgoing"
+    },
+    {
+        "name": "phone",
+        "class": "phone"
+    },
+    {
+        "name": "voicemail",
+        "class": "voicemail"
+    },
+    {
+        "name": "photo-and-video/aperture",
+        "class": "photo-and-video/aperture"
+    },
+    {
+        "name": "photo-and-video/camera-off",
+        "class": "photo-and-video/camera-off"
+    },
+    {
+        "name": "photo-and-video/camera",
+        "class": "photo-and-video/camera"
+    },
+    {
+        "name": "photo-and-video/image",
+        "class": "photo-and-video/image"
+    },
+    {
+        "name": "photo-and-video/video-off",
+        "class": "photo-and-video/video-off"
+    },
+    {
+        "name": "photo-and-video/video",
+        "class": "photo-and-video/video"
+    },
+    {
+        "name": "compass",
+        "class": "compass"
+    },
+    {
+        "name": "crosshair",
+        "class": "crosshair"
+    },
+    {
+        "name": "globe",
+        "class": "globe"
+    },
+    {
+        "name": "map-pin",
+        "class": "map-pin"
+    },
+    {
+        "name": "map",
+        "class": "map"
+    },
+    {
+        "name": "navigation-2",
+        "class": "navigation-2"
+    },
+    {
+        "name": "navigation",
+        "class": "navigation"
+    },
+    {
+        "name": "cloud-drizzle",
+        "class": "cloud-drizzle"
+    },
+    {
+        "name": "cloud-lightning",
+        "class": "cloud-lightning"
+    },
+    {
+        "name": "cloud-rain",
+        "class": "cloud-rain"
+    },
+    {
+        "name": "cloud-snow",
+        "class": "cloud-snow"
+    },
+    {
+        "name": "droplet",
+        "class": "droplet"
+    },
+    {
+        "name": "moon",
+        "class": "moon"
+    },
+    {
+        "name": "sun",
+        "class": "sun"
+    },
+    {
+        "name": "sunrise",
+        "class": "sunrise"
+    },
+    {
+        "name": "sunset",
+        "class": "sunset"
+    },
+    {
+        "name": "thermometer",
+        "class": "thermometer"
+    },
+    {
+        "name": "umbrella",
+        "class": "umbrella"
+    },
+    {
+        "name": "wind",
+        "class": "wind"
+    },
+    {
+        "name": "arrow-down-left",
+        "class": "arrow-down-left"
+    },
+    {
+        "name": "arrow-down-right",
+        "class": "arrow-down-right"
+    },
+    {
+        "name": "arrow-down",
+        "class": "arrow-down"
+    },
+    {
+        "name": "arrow-left",
+        "class": "arrow-left"
+    },
+    {
+        "name": "arrow-right",
+        "class": "arrow-right"
+    },
+    {
+        "name": "arrow-up-left",
+        "class": "arrow-up-left"
+    },
+    {
+        "name": "arrow-up-right",
+        "class": "arrow-up-right"
+    },
+    {
+        "name": "arrow-up",
+        "class": "arrow-up"
+    },
+    {
+        "name": "chevron-down",
+        "class": "chevron-down"
+    },
+    {
+        "name": "chevron-left",
+        "class": "chevron-left"
+    },
+    {
+        "name": "chevron-right",
+        "class": "chevron-right"
+    },
+    {
+        "name": "chevron-up",
+        "class": "chevron-up"
+    },
+    {
+        "name": "chevrons-down",
+        "class": "chevrons-down"
+    },
+    {
+        "name": "chevrons-left",
+        "class": "chevrons-left"
+    },
+    {
+        "name": "chevrons-right",
+        "class": "chevrons-right"
+    },
+    {
+        "name": "chevrons-up",
+        "class": "chevrons-up"
+    },
+    {
+        "name": "chrome",
+        "class": "chrome"
+    },
+    {
+        "name": "codepen",
+        "class": "codepen"
+    },
+    {
+        "name": "facebook",
+        "class": "facebook"
+    },
+    {
+        "name": "instagram",
+        "class": "instagram"
+    },
+    {
+        "name": "pocket",
+        "class": "pocket"
+    },
+    {
+        "name": "slack",
+        "class": "slack"
+    },
+    {
+        "name": "twitter",
+        "class": "twitter"
+    }
+]
